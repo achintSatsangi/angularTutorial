@@ -1,5 +1,14 @@
 # AngularTutorial
 
+Working on my first angular app, refering to the official tutorials provided on angular website and their first product backlog app
+I prefer to work on my on Dev environment instead of an online ditor hence getting everything here for fun :) :)
+
+Refer:
+````
+https://stackblitz.com/angular/lrageyqaexo
+https://angular.io/start#click-here-to-create-a-new-project-in-stackblitz
+````
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
 ## Development server
