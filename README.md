@@ -10,6 +10,9 @@ https://stackblitz.com/angular/lrageyqaexo
 https://angular.io/start#click-here-to-create-a-new-project-in-stackblitz
 ````
 
+Skipping local deplouyment and firebase setup... refer
+https://angular.io/start/deployment
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
 ## Development server
